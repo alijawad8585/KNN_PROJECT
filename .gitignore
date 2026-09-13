@@ -1,0 +1,13 @@
+# Python artifacts
+__pycache__/
+*.pyc
+
+# Model artifacts
+backend/artifacts/
+
+# Environment files
+.env
+
+# Next.js artifacts (defensive at root)
+frontend/node_modules/
+frontend/.next/
